@@ -123,7 +123,7 @@ header {
 
 .logo-text h1 {
     font-family: 'Orbitron', sans-serif;
-    font-size: 2.2rem;
+    font-size: 2rem;
     letter-spacing: 3px;
     color: var(--text-primary);
     line-height: 1;
@@ -136,17 +136,16 @@ header {
 
 .dev-info {
     font-size: 0.9rem;
-    color: var(--text-secondary);
-    opacity: 0.7;
+    color: #FFFFFF;
     font-weight: 500;
     margin-top: 5px;
 }
 
 .dev-info a {
-    color: var(--vibrant-pink);
+    color: #FFFFFF;
     text-decoration: none;
     transition: all 0.3s ease;
-    border-bottom: 1px solid transparent;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
 
 .dev-info a:hover {
@@ -410,15 +409,135 @@ footer {
 }
 
 @media (max-width: 900px) {
+    .header-mascot-container {
+        display: none;
+        /* Hide mascot on tablet to save space */
+    }
+
+    header {
+        grid-template-columns: 1fr 1fr;
+        gap: 20px;
+    }
+
+    .tabs {
+        justify-content: flex-end;
+    }
+
     .twitter-table .tr {
-        grid-template-columns: 50px 1fr 1fr 1fr;
+        grid-template-columns: 50px 1.5fr 1fr 0.8fr 0.8fr 1fr;
     }
 
-    .twitter-table .metric:not(.views) {
+    .twitter-table .metric:nth-child(n+5):nth-child(-n+7) {
+        /* Hide secondary metrics */
+        display: none;
+    }
+}
+
+@media (max-width: 650px) {
+    .container {
+        padding: 20px 10px;
+    }
+
+    header {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        gap: 20px;
+    }
+
+    .logo-container {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .header-logo-img {
+        width: 50px;
+        height: 50px;
+    }
+
+    .logo-text h1 {
+        font-size: 1.6rem;
+    }
+
+    .tabs {
+        width: 100%;
+        justify-content: center;
+        gap: 10px;
+    }
+
+    .tab-btn {
+        padding: 10px 15px;
+        font-size: 0.9rem;
+        flex: 1;
+        justify-content: center;
+    }
+
+    .search-sort {
+        flex-direction: column;
+    }
+
+    input,
+    select {
+        width: 100%;
+        font-size: 1rem;
+    }
+
+    .leaderboard-table {
+        margin: 0 -10px;
+        border-radius: 0;
+        border-left: none;
+        border-right: none;
+    }
+
+    .tr {
+        grid-template-columns: 40px 1fr 70px;
+        padding: 10px 15px;
+        font-size: 0.95rem;
+    }
+
+    .th.fav-channel,
+    .td.fav-channel {
         display: none;
     }
 
-    .th.metric:not(.views) {
+    .td {
+        font-size: 1rem;
+    }
+
+    .user-cell {
+        gap: 10px;
+    }
+
+    .pfp {
+        width: 32px;
+        height: 32px;
+    }
+
+    .username {
+        max-width: 140px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    .twitter-table .tr {
+        grid-template-columns: 40px 1fr 80px;
+        /* Rank, User, Views (Handle is hidden below) */
+    }
+
+    .twitter-table .th:not(.rank):not(.user):not(.views),
+    .twitter-table .td:not(.rank):not(.user):not(.views) {
         display: none;
+    }
+
+    .twitter-table .user-cell {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 2px;
+    }
+
+    .twitter-table .username {
+        font-size: 0.9rem;
     }
 }
