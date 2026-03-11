@@ -39,7 +39,7 @@ jobs:
           MODE=incremental
           BUILD_TWITTER_STATS=1
           BUILD_MESSAGE_JSON=0
-          FETCH_ROLES=1
+          FETCH_ROLES=0
 
           CHECKPOINT_PATH=checkpoint.json
           EXPORT_PATH=user_stats.json
