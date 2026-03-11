@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rena Leaderboard</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Rajdhani:wght@400;600;700&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <div class="background-animation"></div>
+
+    <div class="container">
+        <header>
+            <div class="logo-container">
+                <img src="media/logo.webp" alt="RENA" class="header-logo-img">
+                <div class="logo-text">
+                    <h1>RENA <span>LEADERBOARD</span></h1>
+                    <div class="dev-info">dev - <a href="https://x.com/kuznetsjeka" target="_blank">Kuznets</a></div>
+                </div>
+            </div>
+            <div class="header-mascot-container">
+                <img src="media/mascot1.png" alt="Mascot" class="header-mascot">
+            </div>
+            <nav class="tabs">
+                <button class="tab-btn active" data-tab="discord">
+                    <svg viewBox="0 0 24 24" width="20" height="20">
+                        <path fill="currentColor"
+                            d="M20.317 4.37a19.791 19.791 0 0 0-4.885-1.515a.074.074 0 0 0-.079.037c-.21.375-.444.864-.608 1.25a18.27 18.27 0 0 0-5.487 0a12.64 12.64 0 0 0-.617-1.25a.077.077 0 0 0-.079-.037A19.736 19.736 0 0 0 3.677 4.37a.07.07 0 0 0-.032.027C.533 9.046-.32 13.58.099 18.057a.082.082 0 0 0 .031.057a19.9 19.9 0 0 0 5.993 3.03a.078.078 0 0 0 .084-.028a14.09 14.09 0 0 0 1.226-1.994a.076.076 0 0 0-.041-.106a13.107 13.107 0 0 1-1.872-.892a.077.077 0 0 1-.008-.128a10.2 10.2 0 0 0 .372-.292a.074.074 0 0 1 .077-.01c3.928 1.793 8.18 1.793 12.062 0a.074.074 0 0 1 .078.01c.12.098.246.198.373.292a.077.077 0 0 1-.006.127a12.299 12.299 0 0 1-1.873.892a.077.077 0 0 0-.041.107c.36.698.772 1.362 1.225 1.993a.076.076 0 0 0 .084.028a19.839 19.839 0 0 0 6.002-3.03a.077.077 0 0 0 .032-.054c.5-5.177-.838-9.674-3.549-13.66a.061.061 0 0 0-.031-.03zM8.02 15.33c-1.183 0-2.157-1.085-2.157-2.419c0-1.333.956-2.419 2.157-2.419c1.21 0 2.176 1.096 2.157 2.419c0 1.334-.956 2.419-2.157 2.419zm7.975 0c-1.183 0-2.157-1.085-2.157-2.419c0-1.333.955-2.419 2.157-2.419c1.21 0 2.176 1.096 2.157 2.419c0 1.334-.946 2.419-2.157 2.419z" />
+                    </svg>
+                    Discord
+                </button>
+                <button class="tab-btn" data-tab="twitter">
+                    <svg viewBox="0 0 24 24" width="20" height="20">
+                        <path fill="currentColor"
+                            d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" />
+                    </svg>
+                    X Stats
+                </button>
+            </nav>
+        </header>
+
+        <main>
+            <div id="discord-view" class="tab-content active">
+                <div class="search-sort">
+                    <input type="text" id="discord-search" placeholder="Search by name...">
+                    <select id="discord-filter">
+                        <!-- Populated dynamically -->
+                    </select>
+                    <select id="discord-sort">
+                        <option value="messages">Sort by Messages</option>
+                        <option value="name">Name A-Z</option>
+                    </select>
+                </div>
+                <div class="leaderboard-table">
+                    <div class="thead">
+                        <div class="tr">
+                            <div class="th rank">#</div>
+                            <div class="th user">User</div>
+                            <div class="th messages">Messages</div>
+                            <div class="th fav-channel">Favorite Channel</div>
+                        </div>
+                    </div>
+                    <div id="discord-body" class="tbody">
+                        <!-- Content will be injected by JS -->
+                        <div class="loading">Gathering intelligence...</div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="twitter-view" class="tab-content">
+                <div class="search-sort">
+                    <input type="text" id="twitter-search" placeholder="Search by name...">
+                    <select id="twitter-sort">
+                        <option value="views">Views</option>
+                        <option value="likes">Likes</option>
+                        <option value="posts">Posts</option>
+                    </select>
+                </div>
+                <div class="leaderboard-table twitter-table">
+                    <div class="thead">
+                        <div class="tr">
+                            <div class="th rank">#</div>
+                            <div class="th user">User</div>
+                            <div class="th twitter-handle">X Handle</div>
+                            <div class="th metric">Posts</div>
+                            <div class="th metric">Likes</div>
+                            <div class="th metric">Replies</div>
+                            <div class="th metric">Reposts</div>
+                            <div class="th metric">Quotes</div>
+                            <div class="th metric views">Views</div>
+                        </div>
+                    </div>
+                    <div id="twitter-body" class="tbody">
+                        <!-- Content will be injected by JS -->
+                        <div class="loading">Syncing with the grid...</div>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <footer>
+            <p>&copy; 2026 RENA LEADERBOARD | Powered by Cyberpunk Aesthetics</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
