@@ -26,23 +26,23 @@
     "twitter_name": "iceygotem",
     "twitter_stats": {
       "post": 20,
-      "like": 172,
+      "like": 168,
       "reply": 32,
-      "ретвит": 1,
+      "ретвит": 0,
       "цитата": 0,
-      "посмотры": 2594
+      "посмотры": 2597
     },
     "message_count": {
-      "💬⎮general": 1477,
+      "💬⎮general": 1494,
       "🐸⎮art-memes": 23,
-      "🌞⎮gm": 104,
+      "🌞⎮gm": 107,
       "🤝⎮suggestions": 2,
       "🚩⎮report-spam": 7,
       "🖨⎮proof-of-tee": 83,
-      "🎈⎮level-check": 56,
+      "🎈⎮level-check": 57,
       "🇻🇳｜vietnam": 11,
       "📝⎮community-content": 27,
-      "🇷🇺｜cis": 1974,
+      "🇷🇺｜cis": 2015,
       "🇫🇷｜france": 3
     }
   },
@@ -59,11 +59,11 @@
       "reply": 2,
       "ретвит": 0,
       "цитата": 0,
-      "посмотры": 336
+      "посмотры": 337
     },
     "message_count": {
       "💬⎮general": 2749,
-      "🌞⎮gm": 151,
+      "🌞⎮gm": 152,
       "🤝⎮suggestions": 28,
       "🚩⎮report-spam": 4,
       "🖨⎮proof-of-tee": 90,
@@ -86,7 +86,7 @@
     "twitter_name": "dimakuncik",
     "twitter_stats": {
       "post": 20,
-      "like": 194,
+      "like": 190,
       "reply": 44,
       "ретвит": 22,
       "цитата": 0,
@@ -228,11 +228,11 @@
     "twitter_name": "zefironmaxi",
     "twitter_stats": {
       "post": 22,
-      "like": 434,
+      "like": 428,
       "reply": 69,
       "ретвит": 2,
       "цитата": 0,
-      "посмотры": 3491
+      "посмотры": 3513
     },
     "message_count": {
       "💬⎮general": 828,
@@ -267,7 +267,7 @@
       "🤝⎮suggestions": 5,
       "🖨⎮proof-of-tee": 27,
       "🎈⎮level-check": 15,
-      "🇮🇩｜indonesia": 779,
+      "🇮🇩｜indonesia": 780,
       "🇨🇳｜chinese": 5,
       "🇻🇳｜vietnam": 3,
       "🇵🇹｜portuguese": 2,
@@ -306,15 +306,8 @@
     "user_name": "buekhuek",
     "pfp": "https://cdn.discordapp.com/avatars/1174283459448033290/b90a6136a9e4f95368a1b9155b306037.png?size=128",
     "role": [],
-    "twitter_name": "WesaruKnows",
-    "twitter_stats": {
-      "post": 32,
-      "like": 235,
-      "reply": 50,
-      "ретвит": 2,
-      "цитата": 0,
-      "посмотры": 3581
-    },
+    "twitter_name": null,
+    "twitter_stats": null,
     "message_count": {
       "💬⎮general": 855,
       "🐸⎮art-memes": 12,
@@ -334,7 +327,7 @@
     "twitter_name": "EEldonet",
     "twitter_stats": {
       "post": 14,
-      "like": 93,
+      "like": 92,
       "reply": 35,
       "ретвит": 5,
       "цитата": 3,
@@ -410,7 +403,7 @@
       "🎫⎮create-ticket": 1,
       "📝⎮rules": 1,
       "🐦⎮twitter": 30,
-      "🎈⎮level-check": 1570,
+      "🎈⎮level-check": 1576,
       "🌎｜choose-region": 1
     }
   },
@@ -430,7 +423,7 @@
       "посмотры": 686
     },
     "message_count": {
-      "💬⎮general": 1312,
+      "💬⎮general": 1313,
       "🌞⎮gm": 7,
       "🤝⎮suggestions": 1,
       "🖨⎮proof-of-tee": 3,
@@ -463,6 +456,31 @@
     }
   },
   {
+    "id": "867018080285622272",
+    "server_name": "globecryptoz",
+    "user_name": "globecryptoz",
+    "pfp": "https://cdn.discordapp.com/avatars/867018080285622272/1e9b92fa2cebda261b8f705be38524cd.png?size=128",
+    "role": [],
+    "twitter_name": "GlobeCryptoz",
+    "twitter_stats": {
+      "post": 79,
+      "like": 1262,
+      "reply": 565,
+      "ретвит": 0,
+      "цитата": 5,
+      "посмотры": 10276
+    },
+    "message_count": {
+      "💬⎮general": 227,
+      "🐸⎮art-memes": 43,
+      "🌞⎮gm": 49,
+      "🖨⎮proof-of-tee": 3,
+      "🎈⎮level-check": 7,
+      "📝⎮community-content": 80,
+      "🇷🇺｜cis": 1090
+    }
+  },
+  {
     "id": "830514313956818975",
     "server_name": "keithbm",
     "user_name": "keithbm",
@@ -471,44 +489,19 @@
     "twitter_name": "ferdo717",
     "twitter_stats": {
       "post": 39,
-      "like": 2021,
-      "reply": 364,
+      "like": 2007,
+      "reply": 363,
       "ретвит": 18,
       "цитата": 1,
-      "посмотры": 20284
+      "посмотры": 20287
     },
     "message_count": {
       "💬⎮general": 579,
       "🐸⎮art-memes": 2,
-      "🌞⎮gm": 133,
-      "🖨⎮proof-of-tee": 135,
+      "🌞⎮gm": 135,
+      "🖨⎮proof-of-tee": 137,
       "📝⎮community-content": 51,
       "🇷🇺｜cis": 590
-    }
-  },
-  {
-    "id": "867018080285622272",
-    "server_name": "globecryptoz",
-    "user_name": "globecryptoz",
-    "pfp": "https://cdn.discordapp.com/avatars/867018080285622272/1e9b92fa2cebda261b8f705be38524cd.png?size=128",
-    "role": [],
-    "twitter_name": "GlobeCryptoz",
-    "twitter_stats": {
-      "post": 78,
-      "like": 1286,
-      "reply": 565,
-      "ретвит": 0,
-      "цитата": 5,
-      "посмотры": 9942
-    },
-    "message_count": {
-      "💬⎮general": 224,
-      "🐸⎮art-memes": 42,
-      "🌞⎮gm": 44,
-      "🖨⎮proof-of-tee": 3,
-      "🎈⎮level-check": 7,
-      "📝⎮community-content": 79,
-      "🇷🇺｜cis": 1068
     }
   },
   {
@@ -520,11 +513,11 @@
     "twitter_name": "Lianatyn",
     "twitter_stats": {
       "post": 40,
-      "like": 610,
+      "like": 608,
       "reply": 89,
       "ретвит": 0,
       "цитата": 0,
-      "посмотры": 7583
+      "посмотры": 7585
     },
     "message_count": {
       "💬⎮general": 292,
@@ -534,6 +527,30 @@
       "🎈⎮level-check": 2,
       "📝⎮community-content": 38,
       "🇷🇺｜cis": 874
+    }
+  },
+  {
+    "id": "1361783982160875673",
+    "server_name": "fedorchenko_1412",
+    "user_name": "fedorchenko_1412",
+    "pfp": "https://cdn.discordapp.com/avatars/1361783982160875673/7652b45cf3bc5fd810fef2cbc5fc6d9d.png?size=128",
+    "role": [],
+    "twitter_name": "fedorcenko50682",
+    "twitter_stats": {
+      "post": 31,
+      "like": 1125,
+      "reply": 239,
+      "ретвит": 1,
+      "цитата": 5,
+      "посмотры": 10414
+    },
+    "message_count": {
+      "💬⎮general": 155,
+      "🌞⎮gm": 45,
+      "📝⎮community-content": 31,
+      "🇷🇺｜cis": 1130,
+      "🎈⎮level-check": 1,
+      "🇻🇳｜vietnam": 1
     }
   },
   {
@@ -598,30 +615,6 @@
     }
   },
   {
-    "id": "1361783982160875673",
-    "server_name": "fedorchenko_1412",
-    "user_name": "fedorchenko_1412",
-    "pfp": "https://cdn.discordapp.com/avatars/1361783982160875673/7652b45cf3bc5fd810fef2cbc5fc6d9d.png?size=128",
-    "role": [],
-    "twitter_name": "fedorcenko50682",
-    "twitter_stats": {
-      "post": 30,
-      "like": 1124,
-      "reply": 236,
-      "ретвит": 1,
-      "цитата": 5,
-      "посмотры": 10177
-    },
-    "message_count": {
-      "💬⎮general": 153,
-      "🌞⎮gm": 40,
-      "📝⎮community-content": 30,
-      "🇷🇺｜cis": 1059,
-      "🎈⎮level-check": 1,
-      "🇻🇳｜vietnam": 1
-    }
-  },
-  {
     "id": "1103675419330359338",
     "server_name": "kyzia772",
     "user_name": "kyzia772",
@@ -630,14 +623,14 @@
     "twitter_name": "kuznetsjeka",
     "twitter_stats": {
       "post": 26,
-      "like": 951,
-      "reply": 326,
+      "like": 950,
+      "reply": 330,
       "ретвит": 5,
       "цитата": 11,
-      "посмотры": 12962
+      "посмотры": 13128
     },
     "message_count": {
-      "💬⎮general": 128,
+      "💬⎮general": 129,
       "🐸⎮art-memes": 17,
       "🌞⎮gm": 2,
       "🚩⎮report-spam": 4,
@@ -651,7 +644,7 @@
       "📝⎮community-content": 28,
       "🇮🇳｜india": 1,
       "🇹🇭｜thailand": 1,
-      "🇷🇺｜cis": 1060,
+      "🇷🇺｜cis": 1079,
       "🇫🇷｜france": 1,
       "🇿🇦｜africa": 1
     }
@@ -676,6 +669,59 @@
       "🌞⎮gm": 51,
       "📝⎮community-content": 5,
       "🇿🇦｜africa": 3
+    }
+  },
+  {
+    "id": "897438248580821012",
+    "server_name": "investsecrety",
+    "user_name": "investsecrety",
+    "pfp": "https://cdn.discordapp.com/avatars/897438248580821012/f2385b217aaf446c38db11813ab4357c.png?size=128",
+    "role": [],
+    "twitter_name": "investor_here",
+    "twitter_stats": {
+      "post": 1,
+      "like": 4,
+      "reply": 2,
+      "ретвит": 0,
+      "цитата": 0,
+      "посмотры": 21
+    },
+    "message_count": {
+      "💬⎮general": 255,
+      "🌞⎮gm": 22,
+      "🖨⎮proof-of-tee": 2,
+      "🎈⎮level-check": 7,
+      "📝⎮community-content": 25,
+      "🇷🇺｜cis": 662,
+      "🇮🇩｜indonesia": 11,
+      "🇻🇳｜vietnam": 2,
+      "🚩⎮report-spam": 1
+    }
+  },
+  {
+    "id": "833701401480790036",
+    "server_name": "the_masonx",
+    "user_name": "the_masonx",
+    "pfp": "https://cdn.discordapp.com/avatars/833701401480790036/18f055dabc91e6746708430f61c3807e.png?size=128",
+    "role": [],
+    "twitter_name": "The_MasonX",
+    "twitter_stats": {
+      "post": 25,
+      "like": 249,
+      "reply": 93,
+      "ретвит": 0,
+      "цитата": 9,
+      "посмотры": 3800
+    },
+    "message_count": {
+      "💬⎮general": 188,
+      "🐸⎮art-memes": 5,
+      "🌞⎮gm": 91,
+      "🚩⎮report-spam": 1,
+      "🖨⎮proof-of-tee": 7,
+      "🇻🇳｜vietnam": 1,
+      "📝⎮community-content": 25,
+      "🇷🇺｜cis": 644
     }
   },
   {
@@ -707,32 +753,6 @@
     }
   },
   {
-    "id": "833701401480790036",
-    "server_name": "the_masonx",
-    "user_name": "the_masonx",
-    "pfp": "https://cdn.discordapp.com/avatars/833701401480790036/8894eae5d8d00c8d3c6d95c8b6c4b5cc.png?size=128",
-    "role": [],
-    "twitter_name": "The_MasonX",
-    "twitter_stats": {
-      "post": 25,
-      "like": 262,
-      "reply": 93,
-      "ретвит": 0,
-      "цитата": 9,
-      "посмотры": 3788
-    },
-    "message_count": {
-      "💬⎮general": 188,
-      "🐸⎮art-memes": 5,
-      "🌞⎮gm": 89,
-      "🚩⎮report-spam": 1,
-      "🖨⎮proof-of-tee": 7,
-      "🇻🇳｜vietnam": 1,
-      "📝⎮community-content": 25,
-      "🇷🇺｜cis": 644
-    }
-  },
-  {
     "id": "1237408674515910717",
     "server_name": "nostillhaze",
     "user_name": "nostillhaze",
@@ -740,20 +760,20 @@
     "role": [],
     "twitter_name": "StillhazeE",
     "twitter_stats": {
-      "post": 24,
-      "like": 282,
-      "reply": 64,
+      "post": 26,
+      "like": 288,
+      "reply": 70,
       "ретвит": 2,
-      "цитата": 3,
-      "посмотры": 3459
+      "цитата": 4,
+      "посмотры": 3768
     },
     "message_count": {
       "💬⎮general": 320,
-      "🌞⎮gm": 7,
-      "🖨⎮proof-of-tee": 1,
+      "🌞⎮gm": 9,
+      "🖨⎮proof-of-tee": 2,
       "🇻🇳｜vietnam": 1,
-      "📝⎮community-content": 24,
-      "🇷🇺｜cis": 565
+      "📝⎮community-content": 26,
+      "🇷🇺｜cis": 587
     }
   },
   {
@@ -774,33 +794,6 @@
     }
   },
   {
-    "id": "897438248580821012",
-    "server_name": "investsecrety",
-    "user_name": "investsecrety",
-    "pfp": "https://cdn.discordapp.com/avatars/897438248580821012/f2385b217aaf446c38db11813ab4357c.png?size=128",
-    "role": [],
-    "twitter_name": "CryptoSandr",
-    "twitter_stats": {
-      "post": 24,
-      "like": 192,
-      "reply": 50,
-      "ретвит": 1,
-      "цитата": 0,
-      "посмотры": 1329
-    },
-    "message_count": {
-      "💬⎮general": 242,
-      "🌞⎮gm": 19,
-      "🖨⎮proof-of-tee": 2,
-      "🎈⎮level-check": 7,
-      "📝⎮community-content": 24,
-      "🇷🇺｜cis": 591,
-      "🇮🇩｜indonesia": 11,
-      "🇻🇳｜vietnam": 2,
-      "🚩⎮report-spam": 1
-    }
-  },
-  {
     "id": "420297270777479180",
     "server_name": "speedhall50",
     "user_name": "speedhall50",
@@ -809,15 +802,15 @@
     "twitter_name": "eternia_xx",
     "twitter_stats": {
       "post": 33,
-      "like": 3043,
+      "like": 2993,
       "reply": 499,
-      "ретвит": 43,
+      "ретвит": 42,
       "цитата": 2,
-      "посмотры": 34428
+      "посмотры": 34438
     },
     "message_count": {
       "💬⎮general": 92,
-      "🌞⎮gm": 156,
+      "🌞⎮gm": 157,
       "🖨⎮proof-of-tee": 3,
       "📝⎮community-content": 36,
       "🇷🇺｜cis": 608,
@@ -833,16 +826,16 @@
     "twitter_name": "0x_CRYPT1C",
     "twitter_stats": {
       "post": 23,
-      "like": 164,
+      "like": 160,
       "reply": 8,
       "ретвит": 0,
       "цитата": 0,
       "посмотры": 1235
     },
     "message_count": {
-      "💬⎮general": 529,
+      "💬⎮general": 530,
       "🐸⎮art-memes": 14,
-      "🌞⎮gm": 45,
+      "🌞⎮gm": 47,
       "🎈⎮level-check": 1,
       "🇻🇳｜vietnam": 7,
       "🇹🇷｜turkish": 5,
@@ -860,11 +853,11 @@
     "twitter_name": "hadukemvv",
     "twitter_stats": {
       "post": 1,
-      "like": 15,
+      "like": 14,
       "reply": 6,
       "ретвит": 1,
       "цитата": 1,
-      "посмотры": 1276
+      "посмотры": 1282
     },
     "message_count": {
       "💬⎮general": 576,
@@ -921,7 +914,7 @@
     "twitter_name": "nsanitiez",
     "twitter_stats": {
       "post": 23,
-      "like": 161,
+      "like": 157,
       "reply": 62,
       "ретвит": 0,
       "цитата": 21,
@@ -945,17 +938,17 @@
     "twitter_name": "Bule_Mooooon",
     "twitter_stats": {
       "post": 41,
-      "like": 503,
+      "like": 496,
       "reply": 249,
       "ретвит": 0,
       "цитата": 0,
-      "посмотры": 3976
+      "посмотры": 3980
     },
     "message_count": {
       "💬⎮general": 102,
       "🐸⎮art-memes": 37,
-      "🌞⎮gm": 78,
-      "🖨⎮proof-of-tee": 68,
+      "🌞⎮gm": 80,
+      "🖨⎮proof-of-tee": 70,
       "🎈⎮level-check": 15,
       "📝⎮community-content": 42,
       "🇷🇺｜cis": 437
@@ -970,14 +963,14 @@
     "twitter_name": "georgy_crp",
     "twitter_stats": {
       "post": 35,
-      "like": 1538,
+      "like": 1492,
       "reply": 918,
       "ретвит": 30,
       "цитата": 17,
-      "посмотры": 22686
+      "посмотры": 22690
     },
     "message_count": {
-      "💬⎮general": 210,
+      "💬⎮general": 212,
       "🐸⎮art-memes": 56,
       "🌞⎮gm": 95,
       "🖨⎮proof-of-tee": 57,
@@ -996,7 +989,7 @@
     "twitter_name": "JoomHiko",
     "twitter_stats": {
       "post": 9,
-      "like": 158,
+      "like": 155,
       "reply": 74,
       "ретвит": 2,
       "цитата": 0,
@@ -1038,11 +1031,11 @@
     "twitter_name": "martaaxel18",
     "twitter_stats": {
       "post": 46,
-      "like": 225,
+      "like": 219,
       "reply": 38,
       "ретвит": 18,
       "цитата": 0,
-      "посмотры": 2643
+      "посмотры": 2675
     },
     "message_count": {
       "💬⎮general": 577,
@@ -1106,7 +1099,7 @@
       "reply": 12,
       "ретвит": 0,
       "цитата": 0,
-      "посмотры": 1379
+      "посмотры": 1380
     },
     "message_count": {
       "💬⎮general": 354,
@@ -1126,7 +1119,7 @@
     "twitter_name": "Ju1i_crypto",
     "twitter_stats": {
       "post": 14,
-      "like": 370,
+      "like": 367,
       "reply": 33,
       "ретвит": 2,
       "цитата": 0,
@@ -1164,20 +1157,20 @@
     "twitter_name": "shiqway92",
     "twitter_stats": {
       "post": 20,
-      "like": 129,
+      "like": 117,
       "reply": 54,
       "ретвит": 0,
       "цитата": 0,
-      "посмотры": 2123
+      "посмотры": 2165
     },
     "message_count": {
-      "💬⎮general": 126,
+      "💬⎮general": 128,
       "🐸⎮art-memes": 14,
       "🌞⎮gm": 12,
       "🖨⎮proof-of-tee": 1,
       "🎈⎮level-check": 2,
       "📝⎮community-content": 20,
-      "🇷🇺｜cis": 445
+      "🇷🇺｜cis": 457
     }
   },
   {
@@ -1189,7 +1182,7 @@
     "twitter_name": "kv1nsiii",
     "twitter_stats": {
       "post": 38,
-      "like": 215,
+      "like": 210,
       "reply": 95,
       "ретвит": 0,
       "цитата": 0,
@@ -1346,7 +1339,7 @@
     "twitter_name": "akuincrypto",
     "twitter_stats": {
       "post": 30,
-      "like": 260,
+      "like": 250,
       "reply": 112,
       "ретвит": 4,
       "цитата": 0,
@@ -1389,11 +1382,11 @@
     "twitter_name": "minorilovesyou_",
     "twitter_stats": {
       "post": 15,
-      "like": 220,
+      "like": 215,
       "reply": 83,
       "ретвит": 0,
       "цитата": 0,
-      "посмотры": 2207
+      "посмотры": 2221
     },
     "message_count": {
       "💬⎮general": 332,
@@ -1456,7 +1449,7 @@
       "reply": 144,
       "ретвит": 1,
       "цитата": 0,
-      "посмотры": 1781
+      "посмотры": 1785
     },
     "message_count": {
       "💬⎮general": 43,
@@ -1477,16 +1470,16 @@
     "twitter_name": "fluixoo",
     "twitter_stats": {
       "post": 33,
-      "like": 620,
+      "like": 617,
       "reply": 267,
       "ретвит": 0,
       "цитата": 0,
-      "посмотры": 5674
+      "посмотры": 5675
     },
     "message_count": {
       "💬⎮general": 28,
       "🐸⎮art-memes": 1,
-      "🌞⎮gm": 70,
+      "🌞⎮gm": 71,
       "🤝⎮suggestions": 3,
       "🖨⎮proof-of-tee": 5,
       "🎈⎮level-check": 7,
@@ -1538,7 +1531,7 @@
     "twitter_name": "CryptoTvist",
     "twitter_stats": {
       "post": 40,
-      "like": 256,
+      "like": 251,
       "reply": 11,
       "ретвит": 0,
       "цитата": 2,
@@ -1554,6 +1547,31 @@
     }
   },
   {
+    "id": "826742065995579443",
+    "server_name": "mary75",
+    "user_name": "mary75",
+    "pfp": "https://cdn.discordapp.com/avatars/826742065995579443/b85f3c3caf7784d3741b7914a90bb417.png?size=128",
+    "role": [],
+    "twitter_name": "crypto_marryua",
+    "twitter_stats": {
+      "post": 56,
+      "like": 55,
+      "reply": 45,
+      "ретвит": 1,
+      "цитата": 1,
+      "посмотры": 1791
+    },
+    "message_count": {
+      "💬⎮general": 348,
+      "🐸⎮art-memes": 15,
+      "🌞⎮gm": 2,
+      "🚩⎮report-spam": 1,
+      "🖨⎮proof-of-tee": 1,
+      "📝⎮community-content": 62,
+      "🇷🇺｜cis": 5
+    }
+  },
+  {
     "id": "425136874227630086",
     "server_name": "cesar_viana",
     "user_name": "cesar_viana",
@@ -1565,31 +1583,6 @@
       "🌞⎮gm": 78,
       "🎈⎮level-check": 31,
       "🇵🇹｜portuguese": 325
-    }
-  },
-  {
-    "id": "826742065995579443",
-    "server_name": "mary75",
-    "user_name": "mary75",
-    "pfp": "https://cdn.discordapp.com/avatars/826742065995579443/b85f3c3caf7784d3741b7914a90bb417.png?size=128",
-    "role": [],
-    "twitter_name": "crypto_marryua",
-    "twitter_stats": {
-      "post": 57,
-      "like": 59,
-      "reply": 46,
-      "ретвит": 1,
-      "цитата": 1,
-      "посмотры": 1801
-    },
-    "message_count": {
-      "💬⎮general": 342,
-      "🐸⎮art-memes": 15,
-      "🌞⎮gm": 2,
-      "🚩⎮report-spam": 1,
-      "🖨⎮proof-of-tee": 1,
-      "📝⎮community-content": 62,
-      "🇷🇺｜cis": 5
     }
   },
   {
@@ -1652,7 +1645,7 @@
     "twitter_name": "Marchiii_1337",
     "twitter_stats": {
       "post": 11,
-      "like": 126,
+      "like": 124,
       "reply": 63,
       "ретвит": 0,
       "цитата": 0,
@@ -1662,7 +1655,33 @@
       "💬⎮general": 6,
       "🚩⎮report-spam": 4,
       "📝⎮community-content": 11,
-      "🇷🇺｜cis": 382
+      "🇷🇺｜cis": 385
+    }
+  },
+  {
+    "id": "959314069934985268",
+    "server_name": "kasperskiy999",
+    "user_name": "kasperskiy999",
+    "pfp": "https://cdn.discordapp.com/avatars/959314069934985268/c245c017aa23dd490d86544049e00886.png?size=128",
+    "role": [],
+    "twitter_name": "KasperMinion",
+    "twitter_stats": {
+      "post": 16,
+      "like": 171,
+      "reply": 17,
+      "ретвит": 0,
+      "цитата": 0,
+      "посмотры": 1761
+    },
+    "message_count": {
+      "💬⎮general": 153,
+      "🐸⎮art-memes": 3,
+      "🌞⎮gm": 21,
+      "🖨⎮proof-of-tee": 9,
+      "🎈⎮level-check": 11,
+      "🇻🇳｜vietnam": 5,
+      "📝⎮community-content": 16,
+      "🇷🇺｜cis": 183
     }
   },
   {
@@ -1709,32 +1728,6 @@
     }
   },
   {
-    "id": "959314069934985268",
-    "server_name": "kasperskiy999",
-    "user_name": "kasperskiy999",
-    "pfp": "https://cdn.discordapp.com/avatars/959314069934985268/c245c017aa23dd490d86544049e00886.png?size=128",
-    "role": [],
-    "twitter_name": "KasperMinion",
-    "twitter_stats": {
-      "post": 14,
-      "like": 167,
-      "reply": 15,
-      "ретвит": 0,
-      "цитата": 0,
-      "посмотры": 1529
-    },
-    "message_count": {
-      "💬⎮general": 153,
-      "🐸⎮art-memes": 2,
-      "🌞⎮gm": 21,
-      "🖨⎮proof-of-tee": 8,
-      "🎈⎮level-check": 11,
-      "🇻🇳｜vietnam": 4,
-      "📝⎮community-content": 14,
-      "🇷🇺｜cis": 160
-    }
-  },
-  {
     "id": "361520449101889537",
     "server_name": "66hydros",
     "user_name": "66hydros",
@@ -1743,7 +1736,7 @@
     "twitter_name": "vampmoneycrypto",
     "twitter_stats": {
       "post": 8,
-      "like": 101,
+      "like": 100,
       "reply": 15,
       "ретвит": 0,
       "цитата": 1,
@@ -1819,6 +1812,30 @@
     }
   },
   {
+    "id": "1056215261709090867",
+    "server_name": "demian_ua",
+    "user_name": "demian_ua",
+    "pfp": "https://cdn.discordapp.com/avatars/1056215261709090867/e874c40f477be63857dd8936a9d20463.png?size=128",
+    "role": [],
+    "twitter_name": "0xDemianUA",
+    "twitter_stats": {
+      "post": 10,
+      "like": 17,
+      "reply": 1,
+      "ретвит": 0,
+      "цитата": 0,
+      "посмотры": 539
+    },
+    "message_count": {
+      "💬⎮general": 304,
+      "🐸⎮art-memes": 28,
+      "🌞⎮gm": 1,
+      "🚩⎮report-spam": 2,
+      "🎈⎮level-check": 7,
+      "📝⎮community-content": 10
+    }
+  },
+  {
     "id": "922131901890822184",
     "server_name": "omarjarma",
     "user_name": "omarjarma",
@@ -1888,30 +1905,6 @@
       "🖨⎮proof-of-tee": 8,
       "🎈⎮level-check": 15,
       "🇵🇹｜portuguese": 262
-    }
-  },
-  {
-    "id": "1056215261709090867",
-    "server_name": "demian_ua",
-    "user_name": "demian_ua",
-    "pfp": "https://cdn.discordapp.com/avatars/1056215261709090867/e874c40f477be63857dd8936a9d20463.png?size=128",
-    "role": [],
-    "twitter_name": "0xDemianUA",
-    "twitter_stats": {
-      "post": 10,
-      "like": 17,
-      "reply": 1,
-      "ретвит": 0,
-      "цитата": 0,
-      "посмотры": 536
-    },
-    "message_count": {
-      "💬⎮general": 290,
-      "🐸⎮art-memes": 28,
-      "🌞⎮gm": 1,
-      "🚩⎮report-spam": 2,
-      "🎈⎮level-check": 7,
-      "📝⎮community-content": 10
     }
   },
   {
@@ -2227,6 +2220,29 @@
     }
   },
   {
+    "id": "937763367563694140",
+    "server_name": "hammmyy1",
+    "user_name": "hammmyy1",
+    "pfp": "https://cdn.discordapp.com/avatars/937763367563694140/73b09e9e6c8b99bb6436b9ffb72798bf.png?size=128",
+    "role": [],
+    "twitter_name": "HammyAntisocial",
+    "twitter_stats": {
+      "post": 14,
+      "like": 386,
+      "reply": 200,
+      "ретвит": 0,
+      "цитата": 0,
+      "посмотры": 2685
+    },
+    "message_count": {
+      "💬⎮general": 38,
+      "🐸⎮art-memes": 13,
+      "🌞⎮gm": 15,
+      "📝⎮community-content": 14,
+      "🇷🇺｜cis": 189
+    }
+  },
+  {
     "id": "516028968080506890",
     "server_name": "realgsan",
     "user_name": "realgsan",
@@ -2431,7 +2447,7 @@
       "reply": 10,
       "ретвит": 0,
       "цитата": 0,
-      "посмотры": 582
+      "посмотры": 583
     },
     "message_count": {
       "💬⎮general": 179,
@@ -2513,15 +2529,8 @@
     "user_name": "vpdo",
     "pfp": "https://cdn.discordapp.com/avatars/898546563759095828/ba2a34749de521557c27c5f19714dfc4.png?size=128",
     "role": [],
-    "twitter_name": "nfqgb",
-    "twitter_stats": {
-      "post": 6,
-      "like": 3,
-      "reply": 6,
-      "ретвит": 0,
-      "цитата": 0,
-      "посмотры": 84
-    },
+    "twitter_name": null,
+    "twitter_stats": null,
     "message_count": {
       "💬⎮general": 126,
       "🌞⎮gm": 6,
@@ -2656,7 +2665,7 @@
     "twitter_name": "h0lleboy",
     "twitter_stats": {
       "post": 12,
-      "like": 54,
+      "like": 53,
       "reply": 26,
       "ретвит": 0,
       "цитата": 0,
@@ -2679,7 +2688,7 @@
     "twitter_name": "WhiskasAddict",
     "twitter_stats": {
       "post": 6,
-      "like": 170,
+      "like": 169,
       "reply": 3,
       "ретвит": 0,
       "цитата": 0,
@@ -2688,35 +2697,12 @@
     "message_count": {
       "💬⎮general": 58,
       "🐸⎮art-memes": 4,
-      "🌞⎮gm": 39,
+      "🌞⎮gm": 40,
       "🖨⎮proof-of-tee": 32,
       "🎈⎮level-check": 11,
       "🇮🇩｜indonesia": 73,
       "🇻🇳｜vietnam": 3,
       "📝⎮community-content": 6
-    }
-  },
-  {
-    "id": "937763367563694140",
-    "server_name": "hammmyy1",
-    "user_name": "hammmyy1",
-    "pfp": "https://cdn.discordapp.com/avatars/937763367563694140/73b09e9e6c8b99bb6436b9ffb72798bf.png?size=128",
-    "role": [],
-    "twitter_name": "HammyAntisocial",
-    "twitter_stats": {
-      "post": 12,
-      "like": 300,
-      "reply": 140,
-      "ретвит": 0,
-      "цитата": 0,
-      "посмотры": 2191
-    },
-    "message_count": {
-      "💬⎮general": 36,
-      "🐸⎮art-memes": 11,
-      "🌞⎮gm": 12,
-      "📝⎮community-content": 12,
-      "🇷🇺｜cis": 154
     }
   },
   {
@@ -2728,7 +2714,7 @@
     "twitter_name": "Caarolmyst",
     "twitter_stats": {
       "post": 1,
-      "like": 35,
+      "like": 27,
       "reply": 27,
       "ретвит": 0,
       "цитата": 0,
@@ -2806,6 +2792,21 @@
     }
   },
   {
+    "id": "958802281099300937",
+    "server_name": "itachicrp",
+    "user_name": "itachicrp",
+    "pfp": "https://cdn.discordapp.com/avatars/958802281099300937/4053ca3c87d981b7545d39f62de6fb8c.png?size=128",
+    "role": [],
+    "twitter_name": null,
+    "twitter_stats": null,
+    "message_count": {
+      "💬⎮general": 128,
+      "🌞⎮gm": 14,
+      "📝⎮community-content": 20,
+      "🇷🇺｜cis": 48
+    }
+  },
+  {
     "id": "825425039595143220",
     "server_name": "minikoti_",
     "user_name": "minikoti_",
@@ -2814,7 +2815,7 @@
     "twitter_name": "minikotii",
     "twitter_stats": {
       "post": 6,
-      "like": 88,
+      "like": 84,
       "reply": 16,
       "ретвит": 0,
       "цитата": 0,
@@ -2862,28 +2863,6 @@
     }
   },
   {
-    "id": "958802281099300937",
-    "server_name": "itachicrp",
-    "user_name": "itachicrp",
-    "pfp": "https://cdn.discordapp.com/avatars/958802281099300937/4053ca3c87d981b7545d39f62de6fb8c.png?size=128",
-    "role": [],
-    "twitter_name": "ro_aiello",
-    "twitter_stats": {
-      "post": 17,
-      "like": 127,
-      "reply": 28,
-      "ретвит": 2,
-      "цитата": 0,
-      "посмотры": 1280
-    },
-    "message_count": {
-      "💬⎮general": 120,
-      "🌞⎮gm": 13,
-      "📝⎮community-content": 17,
-      "🇷🇺｜cis": 44
-    }
-  },
-  {
     "id": "1268695426689667204",
     "server_name": "ggmicrofonudo57",
     "user_name": "ggmicrofonudo57",
@@ -2896,6 +2875,51 @@
       "🌞⎮gm": 3,
       "🖨⎮proof-of-tee": 2,
       "🎈⎮level-check": 19
+    }
+  },
+  {
+    "id": "872501285826482247",
+    "server_name": "sabphire",
+    "user_name": "sabphire",
+    "pfp": "https://cdn.discordapp.com/avatars/872501285826482247/203bd2461c51b41be67a9f421b203e47.png?size=128",
+    "role": [],
+    "twitter_name": "sabphire",
+    "twitter_stats": {
+      "post": 3,
+      "like": 35,
+      "reply": 9,
+      "ретвит": 0,
+      "цитата": 0,
+      "посмотры": 267
+    },
+    "message_count": {
+      "💬⎮general": 42,
+      "🌞⎮gm": 28,
+      "🇷🇺｜cis": 116,
+      "📝⎮community-content": 3,
+      "🐸⎮art-memes": 2
+    }
+  },
+  {
+    "id": "659883829942550559",
+    "server_name": "saigon1984",
+    "user_name": "saigon1984",
+    "pfp": "https://cdn.discordapp.com/avatars/659883829942550559/75b58dca15f7ce4f5ba9e1b7672306c8.png?size=128",
+    "role": [],
+    "twitter_name": "SatoSanMOON",
+    "twitter_stats": {
+      "post": 6,
+      "like": 84,
+      "reply": 17,
+      "ретвит": 0,
+      "цитата": 0,
+      "посмотры": 539
+    },
+    "message_count": {
+      "💬⎮general": 15,
+      "📝⎮community-content": 6,
+      "🇷🇺｜cis": 168,
+      "🌞⎮gm": 1
     }
   },
   {
@@ -3025,6 +3049,30 @@
     }
   },
   {
+    "id": "828995454384472115",
+    "server_name": "ruslana4882",
+    "user_name": "ruslana4882",
+    "pfp": "https://cdn.discordapp.com/avatars/828995454384472115/aa16836e67f6cc2c5b6e898269d3f0ec.png?size=128",
+    "role": [],
+    "twitter_name": "RGorlac",
+    "twitter_stats": {
+      "post": 14,
+      "like": 459,
+      "reply": 180,
+      "ретвит": 3,
+      "цитата": 0,
+      "посмотры": 3689
+    },
+    "message_count": {
+      "💬⎮general": 43,
+      "🌞⎮gm": 4,
+      "🇻🇳｜vietnam": 3,
+      "📝⎮community-content": 14,
+      "🇷🇺｜cis": 112,
+      "🇮🇩｜indonesia": 1
+    }
+  },
+  {
     "id": "364935469517111297",
     "server_name": "bayusa10",
     "user_name": "bayusa10",
@@ -3054,27 +3102,6 @@
       "🤝⎮suggestions": 1,
       "🖨⎮proof-of-tee": 3,
       "🎈⎮level-check": 9
-    }
-  },
-  {
-    "id": "659883829942550559",
-    "server_name": "saigon1984",
-    "user_name": "saigon1984",
-    "pfp": "https://cdn.discordapp.com/avatars/659883829942550559/75b58dca15f7ce4f5ba9e1b7672306c8.png?size=128",
-    "role": [],
-    "twitter_name": "SatoSanMOON",
-    "twitter_stats": {
-      "post": 5,
-      "like": 76,
-      "reply": 15,
-      "ретвит": 0,
-      "цитата": 0,
-      "посмотры": 408
-    },
-    "message_count": {
-      "💬⎮general": 15,
-      "📝⎮community-content": 5,
-      "🇷🇺｜cis": 149
     }
   },
   {
@@ -3149,29 +3176,6 @@
     }
   },
   {
-    "id": "828995454384472115",
-    "server_name": "ruslana4882",
-    "user_name": "ruslana4882",
-    "pfp": "https://cdn.discordapp.com/avatars/828995454384472115/aa16836e67f6cc2c5b6e898269d3f0ec.png?size=128",
-    "role": [],
-    "twitter_name": "RGorlac",
-    "twitter_stats": {
-      "post": 13,
-      "like": 477,
-      "reply": 175,
-      "ретвит": 3,
-      "цитата": 0,
-      "посмотры": 3484
-    },
-    "message_count": {
-      "💬⎮general": 41,
-      "🌞⎮gm": 4,
-      "🇻🇳｜vietnam": 3,
-      "📝⎮community-content": 13,
-      "🇷🇺｜cis": 93
-    }
-  },
-  {
     "id": "1228444403782385775",
     "server_name": "defichrono",
     "user_name": "defichrono",
@@ -3180,9 +3184,9 @@
     "twitter_name": "chrono_bubble",
     "twitter_stats": {
       "post": 1,
-      "like": 18,
+      "like": 17,
       "reply": 4,
-      "ретвит": 2,
+      "ретвит": 1,
       "цитата": 1,
       "посмотры": 292
     },
@@ -3207,7 +3211,8 @@
       "💬⎮general": 132,
       "🐸⎮art-memes": 1,
       "🌞⎮gm": 13,
-      "🎈⎮level-check": 4
+      "🎈⎮level-check": 4,
+      "🇻🇳｜vietnam": 1
     }
   },
   {
@@ -3320,16 +3325,16 @@
     "role": [],
     "twitter_name": "tochka27576",
     "twitter_stats": {
-      "post": 21,
-      "like": 221,
-      "reply": 59,
+      "post": 22,
+      "like": 216,
+      "reply": 62,
       "ретвит": 0,
       "цитата": 1,
-      "посмотры": 3323
+      "посмотры": 3440
     },
     "message_count": {
       "💬⎮general": 19,
-      "📝⎮community-content": 21,
+      "📝⎮community-content": 22,
       "🇷🇺｜cis": 101
     }
   },
@@ -3357,7 +3362,7 @@
     "twitter_name": "fort1kkk",
     "twitter_stats": {
       "post": 4,
-      "like": 55,
+      "like": 54,
       "reply": 10,
       "ретвит": 1,
       "цитата": 0,
@@ -3400,15 +3405,8 @@
     "user_name": "asifjavid",
     "pfp": "https://cdn.discordapp.com/avatars/1136255353152077865/e05ab9e8afdd1c91e8f9d8b7232ca908.png?size=128",
     "role": [],
-    "twitter_name": "Bitbyte34",
-    "twitter_stats": {
-      "post": 1,
-      "like": 1,
-      "reply": 0,
-      "ретвит": 0,
-      "цитата": 0,
-      "посмотры": 15
-    },
+    "twitter_name": null,
+    "twitter_stats": null,
     "message_count": {
       "💬⎮general": 44,
       "🐸⎮art-memes": 7,
@@ -3448,29 +3446,6 @@
     "twitter_stats": null,
     "message_count": {
       "🌞⎮gm": 135
-    }
-  },
-  {
-    "id": "872501285826482247",
-    "server_name": "sabphire",
-    "user_name": "sabphire",
-    "pfp": "https://cdn.discordapp.com/avatars/872501285826482247/203bd2461c51b41be67a9f421b203e47.png?size=128",
-    "role": [],
-    "twitter_name": "sabphire",
-    "twitter_stats": {
-      "post": 2,
-      "like": 24,
-      "reply": 6,
-      "ретвит": 0,
-      "цитата": 0,
-      "посмотры": 168
-    },
-    "message_count": {
-      "💬⎮general": 38,
-      "🌞⎮gm": 23,
-      "🇷🇺｜cis": 70,
-      "📝⎮community-content": 2,
-      "🐸⎮art-memes": 1
     }
   },
   {
@@ -3626,11 +3601,11 @@
     "twitter_name": "zfrmpro",
     "twitter_stats": {
       "post": 12,
-      "like": 99,
+      "like": 94,
       "reply": 24,
       "ретвит": 0,
       "цитата": 0,
-      "посмотры": 1192
+      "посмотры": 1211
     },
     "message_count": {
       "🖨⎮proof-of-tee": 1,
@@ -3814,11 +3789,11 @@
     "twitter_name": "CryptoStella111",
     "twitter_stats": {
       "post": 22,
-      "like": 67,
+      "like": 42,
       "reply": 7,
-      "ретвит": 6,
+      "ретвит": 3,
       "цитата": 0,
-      "посмотры": 667
+      "посмотры": 668
     },
     "message_count": {
       "💬⎮general": 18,
@@ -4103,11 +4078,11 @@
     "twitter_name": "SatnoxR",
     "twitter_stats": {
       "post": 13,
-      "like": 234,
+      "like": 231,
       "reply": 134,
       "ретвит": 0,
       "цитата": 0,
-      "посмотры": 3161
+      "посмотры": 3163
     },
     "message_count": {
       "💬⎮general": 14,
@@ -4557,7 +4532,7 @@
     "twitter_name": "mlgbalbes",
     "twitter_stats": {
       "post": 4,
-      "like": 41,
+      "like": 37,
       "reply": 11,
       "ретвит": 0,
       "цитата": 0,
@@ -5607,11 +5582,11 @@
     "twitter_name": "absBogdan",
     "twitter_stats": {
       "post": 3,
-      "like": 72,
+      "like": 68,
       "reply": 15,
       "ретвит": 0,
       "цитата": 0,
-      "посмотры": 643
+      "посмотры": 650
     },
     "message_count": {
       "💬⎮general": 7,
@@ -6098,7 +6073,7 @@
     "twitter_name": "Kakrit666",
     "twitter_stats": {
       "post": 2,
-      "like": 18,
+      "like": 17,
       "reply": 1,
       "ретвит": 0,
       "цитата": 0,
@@ -7760,7 +7735,7 @@
     "twitter_name": "sumakh5050",
     "twitter_stats": {
       "post": 31,
-      "like": 40,
+      "like": 33,
       "reply": 1,
       "ретвит": 0,
       "цитата": 0,
@@ -8014,7 +7989,7 @@
     "twitter_name": "ddagistan4545",
     "twitter_stats": {
       "post": 31,
-      "like": 23,
+      "like": 12,
       "reply": 2,
       "ретвит": 0,
       "цитата": 1,
@@ -8037,7 +8012,7 @@
       "reply": 1,
       "ретвит": 0,
       "цитата": 0,
-      "посмотры": 312
+      "посмотры": 321
     },
     "message_count": {
       "📝⎮community-content": 31
@@ -8052,7 +8027,7 @@
     "twitter_name": "aanabela0101",
     "twitter_stats": {
       "post": 31,
-      "like": 40,
+      "like": 24,
       "reply": 0,
       "ретвит": 0,
       "цитата": 0,
@@ -8071,11 +8046,11 @@
     "twitter_name": "lalayka3535",
     "twitter_stats": {
       "post": 31,
-      "like": 25,
+      "like": 12,
       "reply": 1,
       "ретвит": 0,
       "цитата": 3,
-      "посмотры": 347
+      "посмотры": 349
     },
     "message_count": {
       "📝⎮community-content": 31
@@ -8610,7 +8585,7 @@
       "reply": 8,
       "ретвит": 0,
       "цитата": 0,
-      "посмотры": 1556
+      "посмотры": 1559
     },
     "message_count": {
       "🐸⎮art-memes": 2,
@@ -9359,7 +9334,7 @@
     "twitter_name": "CaptainGorillas",
     "twitter_stats": {
       "post": 1,
-      "like": 76,
+      "like": 75,
       "reply": 18,
       "ретвит": 10,
       "цитата": 1,
@@ -9716,9 +9691,9 @@
     "twitter_name": "miracle_mx",
     "twitter_stats": {
       "post": 2,
-      "like": 62,
+      "like": 59,
       "reply": 28,
-      "ретвит": 24,
+      "ретвит": 22,
       "цитата": 1,
       "посмотры": 938
     },
@@ -10335,15 +10310,8 @@
     "user_name": "undercover7_",
     "pfp": "https://cdn.discordapp.com/avatars/728158204378349590/e30ee9d970103143b3d0a6d8c195d876.png?size=128",
     "role": [],
-    "twitter_name": "Alfrzwiandhika7",
-    "twitter_stats": {
-      "post": 1,
-      "like": 2,
-      "reply": 0,
-      "ретвит": 0,
-      "цитата": 0,
-      "посмотры": 41
-    },
+    "twitter_name": null,
+    "twitter_stats": null,
     "message_count": {
       "💬⎮general": 3,
       "🌞⎮gm": 10,
@@ -10971,7 +10939,7 @@
     "twitter_name": "volG1142981",
     "twitter_stats": {
       "post": 4,
-      "like": 125,
+      "like": 115,
       "reply": 7,
       "ретвит": 0,
       "цитата": 0,
@@ -12146,6 +12114,21 @@
     }
   },
   {
+    "id": "1241689613366464599",
+    "server_name": "mahmoudholom53",
+    "user_name": "mahmoudholom53",
+    "pfp": "https://cdn.discordapp.com/avatars/1241689613366464599/5c14f64b1460957144044eb7e46aa851.png?size=128",
+    "role": [],
+    "twitter_name": null,
+    "twitter_stats": null,
+    "message_count": {
+      "💬⎮general": 3,
+      "🌞⎮gm": 7,
+      "🖨⎮proof-of-tee": 2,
+      "🇿🇦｜africa": 6
+    }
+  },
+  {
     "id": "974898147904065566",
     "server_name": "xiaoxiao857857",
     "user_name": "xiaoxiao857857",
@@ -12570,21 +12553,6 @@
       "🌞⎮gm": 1,
       "🖨⎮proof-of-tee": 1,
       "🇮🇩｜indonesia": 3
-    }
-  },
-  {
-    "id": "1241689613366464599",
-    "server_name": "mahmoudholom53",
-    "user_name": "mahmoudholom53",
-    "pfp": "https://cdn.discordapp.com/avatars/1241689613366464599/5c14f64b1460957144044eb7e46aa851.png?size=128",
-    "role": [],
-    "twitter_name": null,
-    "twitter_stats": null,
-    "message_count": {
-      "💬⎮general": 3,
-      "🌞⎮gm": 7,
-      "🖨⎮proof-of-tee": 1,
-      "🇿🇦｜africa": 6
     }
   },
   {
@@ -13120,6 +13088,28 @@
     "twitter_stats": null,
     "message_count": {
       "🇵🇹｜portuguese": 16
+    }
+  },
+  {
+    "id": "943392358257532929",
+    "server_name": "what_is_crypto",
+    "user_name": "what_is_crypto",
+    "pfp": "https://cdn.discordapp.com/avatars/943392358257532929/32abf90adf771d274dda5f1ad9f2d7e0.png?size=128",
+    "role": [],
+    "twitter_name": "what_is_crypto0",
+    "twitter_stats": {
+      "post": 2,
+      "like": 9,
+      "reply": 2,
+      "ретвит": 0,
+      "цитата": 0,
+      "посмотры": 69
+    },
+    "message_count": {
+      "💬⎮general": 11,
+      "🐸⎮art-memes": 1,
+      "🌞⎮gm": 2,
+      "📝⎮community-content": 2
     }
   },
   {
@@ -13675,6 +13665,20 @@
     "twitter_stats": null,
     "message_count": {
       "🌞⎮gm": 15
+    }
+  },
+  {
+    "id": "1220754283767660544",
+    "server_name": "sledkayo",
+    "user_name": "sledkayo",
+    "pfp": "https://cdn.discordapp.com/avatars/1220754283767660544/5c94d51536e93b73a1575e47cf00b457.png?size=128",
+    "role": [],
+    "twitter_name": null,
+    "twitter_stats": null,
+    "message_count": {
+      "🇻🇳｜vietnam": 2,
+      "🇷🇺｜cis": 12,
+      "🇰🇷｜korea": 1
     }
   },
   {
@@ -14437,7 +14441,7 @@
       "reply": 2,
       "ретвит": 0,
       "цитата": 0,
-      "посмотры": 119
+      "посмотры": 120
     },
     "message_count": {
       "💬⎮general": 7,
@@ -16005,6 +16009,28 @@
     }
   },
   {
+    "id": "960051993957781516",
+    "server_name": "cdkagenou",
+    "user_name": "cdkagenou",
+    "pfp": "https://cdn.discordapp.com/avatars/960051993957781516/c55c947ead12a3d6cdbef0a7c6ba860a.png?size=128",
+    "role": [],
+    "twitter_name": "cdkagenou",
+    "twitter_stats": {
+      "post": 1,
+      "like": 4,
+      "reply": 0,
+      "ретвит": 0,
+      "цитата": 0,
+      "посмотры": 26
+    },
+    "message_count": {
+      "💬⎮general": 5,
+      "🌞⎮gm": 1,
+      "📝⎮community-content": 1,
+      "🇷🇺｜cis": 5
+    }
+  },
+  {
     "id": "1112442481351590040",
     "server_name": "a_akash123",
     "user_name": "a_akash123",
@@ -16763,20 +16789,6 @@
     }
   },
   {
-    "id": "1220754283767660544",
-    "server_name": "sledkayo",
-    "user_name": "sledkayo",
-    "pfp": "https://cdn.discordapp.com/avatars/1220754283767660544/5c94d51536e93b73a1575e47cf00b457.png?size=128",
-    "role": [],
-    "twitter_name": null,
-    "twitter_stats": null,
-    "message_count": {
-      "🇻🇳｜vietnam": 2,
-      "🇷🇺｜cis": 8,
-      "🇰🇷｜korea": 1
-    }
-  },
-  {
     "id": "1246730818097774612",
     "server_name": "bu11erd",
     "user_name": "bu11erd",
@@ -16789,7 +16801,7 @@
       "reply": 4,
       "ретвит": 0,
       "цитата": 0,
-      "посмотры": 87
+      "посмотры": 91
     },
     "message_count": {
       "💬⎮general": 4,
@@ -22883,6 +22895,20 @@
     }
   },
   {
+    "id": "1118057078490148875",
+    "server_name": "kufuyuank.pdf",
+    "user_name": "kufuyuank.pdf",
+    "pfp": "https://cdn.discordapp.com/avatars/1118057078490148875/b357205cf9f5d6ed1a2e18ab7f56aa4b.png?size=128",
+    "role": [],
+    "twitter_name": null,
+    "twitter_stats": null,
+    "message_count": {
+      "💬⎮general": 4,
+      "🌞⎮gm": 1,
+      "🇮🇩｜indonesia": 1
+    }
+  },
+  {
     "id": "1086941593967280188",
     "server_name": "loc1067",
     "user_name": "loc1067",
@@ -25330,7 +25356,7 @@
       "reply": 2,
       "ретвит": 0,
       "цитата": 0,
-      "посмотры": 96
+      "посмотры": 99
     },
     "message_count": {
       "💬⎮general": 1,
@@ -25348,6 +25374,20 @@
     "twitter_stats": null,
     "message_count": {
       "💬⎮general": 5
+    }
+  },
+  {
+    "id": "1455703022758789152",
+    "server_name": "eryhjfrf_88258",
+    "user_name": "eryhjfrf_88258",
+    "pfp": null,
+    "role": [],
+    "twitter_name": null,
+    "twitter_stats": null,
+    "message_count": {
+      "💬⎮general": 1,
+      "🌞⎮gm": 2,
+      "🤝⎮suggestions": 2
     }
   },
   {
@@ -25456,7 +25496,7 @@
       "reply": 1,
       "ретвит": 0,
       "цитата": 0,
-      "посмотры": 53
+      "посмотры": 54
     },
     "message_count": {
       "💬⎮general": 3,
@@ -26008,19 +26048,6 @@
       "🌞⎮gm": 1,
       "🖨⎮proof-of-tee": 2,
       "🎈⎮level-check": 1
-    }
-  },
-  {
-    "id": "1118057078490148875",
-    "server_name": "kufuyuank.pdf",
-    "user_name": "kufuyuank.pdf",
-    "pfp": "https://cdn.discordapp.com/avatars/1118057078490148875/b357205cf9f5d6ed1a2e18ab7f56aa4b.png?size=128",
-    "role": [],
-    "twitter_name": null,
-    "twitter_stats": null,
-    "message_count": {
-      "💬⎮general": 4,
-      "🌞⎮gm": 1
     }
   },
   {
@@ -29412,20 +29439,6 @@
     }
   },
   {
-    "id": "1455703022758789152",
-    "server_name": "eryhjfrf_88258",
-    "user_name": "eryhjfrf_88258",
-    "pfp": null,
-    "role": [],
-    "twitter_name": null,
-    "twitter_stats": null,
-    "message_count": {
-      "💬⎮general": 1,
-      "🌞⎮gm": 1,
-      "🤝⎮suggestions": 2
-    }
-  },
-  {
     "id": "1370636242101997648",
     "server_name": "now0590_51251",
     "user_name": "now0590_51251",
@@ -30915,6 +30928,19 @@
       "🐸⎮art-memes": 1,
       "🌞⎮gm": 1,
       "🇻🇳｜vietnam": 1
+    }
+  },
+  {
+    "id": "1138512885866303509",
+    "server_name": "shafiul94l",
+    "user_name": "shafiul94l",
+    "pfp": "https://cdn.discordapp.com/avatars/1138512885866303509/e62f40182c0706911b6167bb2c93a627.png?size=128",
+    "role": [],
+    "twitter_name": null,
+    "twitter_stats": null,
+    "message_count": {
+      "💬⎮general": 1,
+      "🌞⎮gm": 3
     }
   },
   {
@@ -45229,6 +45255,27 @@
     }
   },
   {
+    "id": "236070398494638081",
+    "server_name": "0x0009",
+    "user_name": "0x0009",
+    "pfp": "https://cdn.discordapp.com/avatars/236070398494638081/3a26906242622b4e05f272a48ccd8309.png?size=128",
+    "role": [],
+    "twitter_name": "yaro_fxxk",
+    "twitter_stats": {
+      "post": 1,
+      "like": 2,
+      "reply": 0,
+      "ретвит": 0,
+      "цитата": 0,
+      "посмотры": 26
+    },
+    "message_count": {
+      "💬⎮general": 1,
+      "🌞⎮gm": 1,
+      "📝⎮community-content": 1
+    }
+  },
+  {
     "id": "1092354881492357150",
     "server_name": "gautamxtreme",
     "user_name": "gautamxtreme",
@@ -47469,19 +47516,6 @@
     "server_name": "sou933",
     "user_name": "sou933",
     "pfp": "https://cdn.discordapp.com/avatars/1328039839701925890/469afce92cc3ccaaa4cffdfc6dd1d862.png?size=128",
-    "role": [],
-    "twitter_name": null,
-    "twitter_stats": null,
-    "message_count": {
-      "💬⎮general": 1,
-      "🌞⎮gm": 1
-    }
-  },
-  {
-    "id": "1138512885866303509",
-    "server_name": "shafiul94l",
-    "user_name": "shafiul94l",
-    "pfp": "https://cdn.discordapp.com/avatars/1138512885866303509/e62f40182c0706911b6167bb2c93a627.png?size=128",
     "role": [],
     "twitter_name": null,
     "twitter_stats": null,
@@ -67156,6 +67190,18 @@
     "twitter_stats": null,
     "message_count": {
       "🇷🇺｜cis": 2
+    }
+  },
+  {
+    "id": "1106215605092233228",
+    "server_name": "kuku4289",
+    "user_name": "kuku4289",
+    "pfp": "https://cdn.discordapp.com/avatars/1106215605092233228/bbcd905922f2cef5044db7d4cac62709.png?size=128",
+    "role": [],
+    "twitter_name": null,
+    "twitter_stats": null,
+    "message_count": {
+      "💬⎮general": 2
     }
   },
   {
